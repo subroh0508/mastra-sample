@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "@mastra/core": "^0.21.1",
+    "@mastra/deployer-vercel": "^0.12.9",
     "@mastra/libsql": "^0.15.2",
     "@mastra/loggers": "^0.10.16",
     "@mastra/memory": "^0.15.7",
